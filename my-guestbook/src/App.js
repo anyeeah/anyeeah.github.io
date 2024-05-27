@@ -1,6 +1,6 @@
 import './styles.css';
 
-const API_URL = '//likelion12-guestbook.kro.kr:8000/guestbook/';
+const API_URL = 'http://likelion12-guestbook.kro.kr:8000/guestbook/';
 
 // 가져와서 리스트 생성
 async function fetchEntries() {
